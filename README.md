@@ -1,6 +1,6 @@
 <h1>Django Learning Adventure</h1>
 
-<p>In this repository, you can find the code samples I have written and worked on while learning how to use Django for Web building
+<p>In this repository, you can find the code samples I have written and worked on while learning how to use Django for web application
 </p>
 <h2>What is in there?</h2>
 
